@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#007ACC;">Owen van der Zwan</span>
+  Hi there, I'm <span style="color:#007ACC;">Owen van der Zwan</span>
 </h1>
 
 <div align="center">
