@@ -1,11 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">
-  Hi there, I'm <span style="color:#007ACC;">Owen van der Zwan</span>
+  <span style="color:#007ACC;">Owen van der Zwan</span>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
-</div>
 
 <p align="center">
   🔥 Developer | 🎨 Designer | ⚡ Tech Enthusiast
