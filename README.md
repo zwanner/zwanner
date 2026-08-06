@@ -9,18 +9,6 @@
 
 ---
 
-<!-- GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zwanner&show_icons=true&theme=radical&hide_border=true" alt="zwanners's GitHub stats" />
-</p>
-
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwanner&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 
