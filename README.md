@@ -3,10 +3,6 @@
   <span style="color:#007ACC;">Owen van der Zwan</span>
 </h1>
 
-
-<p align="center">
-  🔥 Developer | 🎨 Designer | ⚡ Tech Enthusiast
-</p>
 <p align="center">
   I am a student at ASU, currently studying Graphic Information Technologies: Full Stack Web Development. I love developing, tinkering, and playing video games. 
 </p>
